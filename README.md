@@ -2,6 +2,6 @@
 
 docker-compose up -d 
 
-## Running the app
+## TeamCity server and agent stop
 
 docker-compose stop 
